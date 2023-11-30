@@ -1,4 +1,6 @@
-### Hi there 👋
+Computer Science student at AVC. Interests include Cybersecurity, Pen Testing, Networking, and Software Development.
+
+
 
 <!--
 **rseeber/rseeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
