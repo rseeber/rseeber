@@ -1,6 +1,6 @@
 Computer Science student at AVC. 
 
-Interests include Cybersecurity, Pen Testing, Networking, and Software Development.
+Interests include Security, Pen Testing, Networking, and Software Development.
 
 
 
