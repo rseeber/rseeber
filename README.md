@@ -2,7 +2,7 @@ Computer Science student at AVC.
 
 Interests include Cybersecurity, Networking, Sys Admin, and Software Development.
 
-Currently playing around with Raspberry Pi and physical electronics.
+Currently working on my loginManager library and learning about cryptography as well as the compiler process.
 
 <hr>
 
