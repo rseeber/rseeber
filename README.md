@@ -6,7 +6,7 @@ Currently working on my SLIM library and learning about cryptography as well as 
 
 <hr>
 
-My gpg key can be found on my website: https://rseeber.github.io/about.html
+My gpg key can be found on my website: https://riverseeber.net/about
 
 <!--
 **rseeber/rseeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
