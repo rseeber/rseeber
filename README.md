@@ -1,12 +1,21 @@
-Computer Science student at AVC. 
+# Hi! I'm River! ✨
 
-Interests include Cybersecurity, Networking, Sys Admin, and Software Development.
+I'm a Computer Science student at AVC, transferring to Cal Poly San Luis Obispo in the fall. 
 
-Currently working on my SLIM library and learning about cryptography as well as the compiler process.
+### Interests: 
 
-<hr>
+- Reinforcement Learning
+- Software Engineering
+- Networking
+- Cybersecurity
+- System Administration
 
-My gpg key can be found on my website: https://riverseeber.net/about
+
+### Currently working on:
+
+- **Building**: a reinforcement learning-based biology simulator ([repo](https://github.com/rseeber/gridWorld-rl))
+- **Reading**: [Reinforcement Learning: An Introduction](https://github.com/MrinmoiHossain/Reinforcement-Learning-Specialization-Coursera/blob/master/Book/Reinforcement%20Learning%20An%20introduction%20(Second%20Edition)%20by%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf) by Richard Sutton (ebook shared freely under CC-NC-ND 2.0).
+
 
 <!--
 **rseeber/rseeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
